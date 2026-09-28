@@ -1,35 +1,35 @@
 #write a function to print "Hello, World"
-"""def hello():
+def hello():
     print("Hello, World!")
 
-hello()"""
+hello()
 
 #Write a function that takes a name and prints a greeting
-"""def greet(name):
+def greet(name):
     print("Hello", name)
 
-greet("Isha")"""
+greet("Isha")
 
 #write a function to add to numbers
-"""def add(a, b):
+def add(a, b):
     return a + b
 
-print(add(10, 20))"""
+print(add(10, 20))
 
 #write a function to find the square of a number
-"""def square(n):
+def square(n):
     return n * n
 
-print(square(5))"""
+print(square(5))
 
 #write a function to check whether a number is even or odd
-"""def even_odd(n):
+def even_odd(n):
     if n % 2 == 0:
         print("Even")
     else:
         print("Odd")
 
-even_odd(7)"""
+even_odd(7)
 
 #write a function to find the maximum of two numbers
 def maximum(a, b):
